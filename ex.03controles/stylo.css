@@ -1,0 +1,31 @@
+h1{
+    font-size: 80px;
+    color: aqua;
+    text-align: center;
+}
+
+.banner-home{
+    background-color: rgb(136, 54, 213);
+    padding: 80px;
+    border: 20px solid greenyellow;
+    margin: 80px;
+}
+img {
+    width: 25%;
+    display: inline-block;
+    justify-content: center;
+    padding: 10px;
+    border: 2px solid rgb(226, 133, 133);
+    margin: 10px;
+
+}
+figcaption{
+    padding: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    color: antiquewhite;
+    text-align: center;
+   
+}
+
+
